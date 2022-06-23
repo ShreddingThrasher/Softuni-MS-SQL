@@ -1,0 +1,3 @@
+SELECT COUNT(*) COUNT
+FROM Employees
+WHERE ManagerID IS NULL
